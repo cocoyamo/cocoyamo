@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cocoyamo
 - 👀 I’m interested in neuroscience and RStudio
 - 🌱 I’m currently in Taiwan
-- 📫 My email address: [moyachumo@gmail.com](moyachomo@gmail.com)
+- 📫 My email address: moyachumo@gmail.com
 - 😄 Pronouns: she/her
 
 <!---
