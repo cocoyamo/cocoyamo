@@ -1,8 +1,13 @@
 👋 Hi, I’m @cocoyamo
-👩‍💻 My website:: https://cocoyamo.github.io/
+
+👩‍💻 My website: https://cocoyamo.github.io/
+
 👀 I’m interested in neuroscience and RStudio
+
 🌱 I’m currently in Taiwan
+
 📫 My email address: moyachumo@gmail.com
+
 😄 Pronouns: she/her
 
 <!---
