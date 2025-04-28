@@ -1,14 +1,12 @@
-👋 Hi, I’m @cocoyamo
+👋 Hi, I’m Moya Chu
 
 👩‍💻 My website: https://cocoyamo.github.io/
 
-👀 I’m interested in neuroscience and RStudio
+👀 I’m interested in cognitive neuroscience and RStudio
 
-🌱 I’m currently in Taiwan
+🌱 I’m currently in Chapel Hill, NC, USA
 
 📫 My email address: moyachumo@gmail.com
-
-😄 Pronouns: she/her
 
 <!---
 cocoyamo/cocoyamo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
