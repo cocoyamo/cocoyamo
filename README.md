@@ -2,7 +2,7 @@
 
 👩‍💻 My website: https://cocoyamo.github.io/
 
-👀 I’m interested in cognitive neuroscience and RStudio
+👀 I’m interested in cognitive neuroscience and am skilled at using RStudio for data analysis and data visualization.
 
 🌱 I’m currently in Chapel Hill, NC, USA
 
